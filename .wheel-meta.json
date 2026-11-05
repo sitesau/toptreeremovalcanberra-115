@@ -1,0 +1,22 @@
+{
+  "wheel_id": 723,
+  "structure": "umbrella",
+  "slug": "toptreeremovalcanberra-115",
+  "project": "tree-removal-canberra-warranty-77a3c383c9e74380489fd8669b23e17c",
+  "parent_t1_ref": "toptreeremovalcanberra-157",
+  "node_role": "feeder",
+  "money_target": "toptreeremovalcanberra.com.au",
+  "primary_kw": "tree removal canberra warranty",
+  "intended_url": "https://aumedia.neocities.org/tree-removal-canberra-warranty-77a3c383c9e74380489fd8669b23e17c/",
+  "tier": "T2",
+  "writeback_nonce": "9b04191e36d3f945",
+  "links": [
+    {
+      "target_url": "http://tree-removal-canberra-diy-vs-professional-31cfb99f969049b0c1a88.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
